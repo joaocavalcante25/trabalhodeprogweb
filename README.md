@@ -3,8 +3,7 @@
 
 
 Alunos:
-João Cavalcante Leite Neto - RGA:2020.1906.057-1
-Gefferson Alves
+João Cavalcante Leite Neto RGA:2020.1906.057-1, Gefferson Alves
 
 
 
