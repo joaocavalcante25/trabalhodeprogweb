@@ -3,7 +3,7 @@
 
 
 Alunos:
-João Cavalcante Leite Neto RGA:2020.1906.057-1, Gefferson Alves
+João Cavalcante Leite Neto RGA:2020.1906.057-1, Gefferson Alves RGA: 2019.1902.034-1, Arthur Menezes
 
 
 
@@ -46,4 +46,7 @@ RF11: O sistema deve possuir um menu com filtro de categiras de anuncios de imav
 
 RF12: O sistema deve permitir que o usuario possa ser notificado por meio de um alarme a cada anuncio adicionado.
 
-RF13: O sistema deve permitir que um usu
+RF13: O sistema deve permitir que um usuario seja redirecionado ao whatsapp por meio de um botão em cada anuncio.
+
+
+Repositório: https://github.com/joaocavalcante25/trabalhodeprogweb
